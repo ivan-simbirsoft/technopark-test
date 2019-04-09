@@ -1,0 +1,14 @@
+{
+  "name": "ivan-test-tasks/delivery",
+  "description": "delivery module",
+  "authors" : [{
+    "name" : "Ivan",
+    "email" : "ivan@simbirsoft.com"
+  }],
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Delivery\\": "src/"
+    }
+  }
+}
